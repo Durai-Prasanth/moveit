@@ -1,0 +1,155 @@
+@media only screen and (max-width: 768px) and (min-width: 320px){
+
+.pad {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.nav>li>a {
+    padding-left: 15px;
+    font-size: 14px;
+}
+.navbar-inner
+{
+	padding:0 !important;
+}
+}
+
+
+@media (max-width:768px) {
+	.navbar-right {
+    margin-right: 0 !important;
+}
+    .brand img{
+        margin-bottom: 5px
+    }
+    .navbar .btn-navbar{
+        /*margin-right: -15px;*/
+    }
+    .navbar .nav > li > a {
+        padding: 10px 15px;
+    }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 767px)
+{
+#myNavbar {
+    width: 100% !important;
+}
+}
+@media only screen and (max-width: 768px) and (min-width: 320px)
+{
+	.navbar-toggle
+	{
+		display:block;
+	}
+    #myNavbar {
+    clear: both !important;
+    float: none !important;
+    text-align: center;
+    clear: both;
+    width: 75%;
+    margin: auto;
+    background: #0888C0;
+    border-radius: 5px;
+	}
+	ul.nav.navbar-nav.menul >li >a
+	{
+		font-size: 13px;
+	}
+	ul.nav.navbar-nav.menul >li 
+	{
+		padding: 0px 5px;
+}
+.testi {
+	padding:0;
+    padding-top: 20px;
+    text-align: -webkit-center;
+}
+.quotes
+{
+	display:none;
+}
+.testi p
+{
+	text-indent:0;
+}
+.section9
+{
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+.section7, .section4, .section10, .section11
+{
+	padding: 30px !important;
+}
+.section11
+{
+	    text-align: -webkit-center;
+}
+.fo
+{
+	    text-align: center !important;
+}
+.section5 {
+	padding:0 !important;
+    text-align: -webkit-center;
+}
+}
+@media only screen and (max-width: 767px)
+{
+.logo {
+    text-align: center;
+    width: 100%;
+}
+}
+
+@media only screen and (max-width: 767px)
+{
+	
+.section1, .section2, .section3
+{
+	padding-left:15px !important;
+	padding-right:15px !important;
+}
+.thumbnail
+{
+	    margin-bottom: 35px !important;
+}
+.sideImg img
+{
+	width: 100%;
+    margin-top: -55px;
+    padding-bottom: 15px;
+}
+}
+@media only screen and (max-width: 767px)
+{
+	.main8
+	{
+		display:none;
+	}
+}
+@media only screen and (min-width: 768px) 
+{
+.pad {
+    padding-left: 6px !important;
+}
+button.navbar-toggle
+{
+	    margin-right: 30px;
+}
+
+}
+@media (min-width: 1023px)
+{
+.navbar-right {
+    float: right !important;
+    margin-right: 30px !important;
+}
+}
+@media only screen and (max-width: 1296px) and (min-width: 1266px)
+{
+ul.nav.navbar-nav.menul >li {
+    padding: 10px 3px;
+}
+}
